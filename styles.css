@@ -1,0 +1,23 @@
+/* styles.css */
+
+img {
+    width: 200px;
+    height: 400px;
+}
+
+.p .h4 {
+    font-weight: 900;
+}
+
+ul li{
+    background-color: yellowgreen;
+    color: blueviolet;
+    font-family: monospace;
+}
+
+ol li {
+    background-color: blueviolet;
+    color: yellowgreen;
+    font-family: serif;
+}
+
